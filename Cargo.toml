@@ -1,0 +1,11 @@
+[package]
+name = "packet"
+version = "0.1.0"
+authors = ["qiuchengxuan <qiuchengxuan@gmail.com>"]
+
+[dependencies]
+byteorder   = "1"
+hwaddr      = "0.1"
+enum-primitive-derive = "^0.1"
+num-traits = "^0.1"
+libc = "0.2"
